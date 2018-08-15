@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+       <Name>DigitalOnUsPlugin</Name>
+       <FullClassName>DigitalOnUsPlugin.Class1</FullClassName>
+       <Text>Digital OnUs Plugin</Text>
+       <Description>Test Digital On Us plugin</Description>
+       <VisibilityMode>AlwaysVisible</VisibilityMode>
+       <Assembly>${PathToPlugin}</Assembly>
+       <AddInId>502fe383-2648-4e98-adf8-5e6047f9dc34</AddInId>
+    <VendorId>DOU</VendorId>
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
